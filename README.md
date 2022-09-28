@@ -1,9 +1,7 @@
 本项目是基于ssm+layui的小区物业管理系统
 
 
-项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
-
-![公众号二维码](./运行截图/wechat.png)
+源码下载：http://www.manoncode.cn/details?id=9
 
 CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/112973326
 
